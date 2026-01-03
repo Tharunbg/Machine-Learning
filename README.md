@@ -4,4 +4,5 @@ This repository contains implementations of core machine learning algorithms
 with clear explanations, code, and examples.
 
 ## Algorithms
-- Linear Regression (LR)
+- Linear Regression 
+- Logistic Regression 
