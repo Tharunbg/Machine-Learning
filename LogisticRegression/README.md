@@ -58,7 +58,7 @@ This repository builds a **custom Logistic Regression model** and applies it to 
 
 ## 🛠 Tech Stack
 
-- Python 🐍  
+- Python 
 - NumPy  
 - Matplotlib  
 - mlxtend  
